@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "6a973ef568a2c5b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "72394ba30404b8f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9297c0a60d816ccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Representable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Representable"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95ee453459778f97",
+    "type": "split",
+    "children": [
+      {
+        "id": "9501ebae924ffcd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc50189f9541fd64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a2133a6313cb4f74",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "terminal",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "85301d45d37a468e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3b8c9dc7f6b1365e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ee18d2e78aaaf22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29618e6f14118e23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Limits.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Limits"
+            }
+          },
+          {
+            "id": "fb263c12400defec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Limits.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Limits"
+            }
+          },
+          {
+            "id": "6b48fc97362c0543",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ac7ae21f8ad9a5a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Representable.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Representable"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9297c0a60d816ccf",
+  "lastOpenFiles": [
+    "mt.md",
+    "Adjoints.md",
+    "Categories, Functors & Natural Transformations.md",
+    "Representable.md",
+    "Untitled.md",
+    "Pasted image 20241019154314.png",
+    "Limits.md",
+    "Pasted image 20241001110539.png",
+    "Pasted image 20241030111212.png",
+    "Pasted image 20241019154303.png",
+    "Pasted image 20241011164415.png",
+    "Pasted image 20241011164345.png",
+    "Pasted image 20241001110551.png",
+    "Pasted image 20241002195142.png",
+    "Welcome.md",
+    "Untitled"
+  ]
+}
